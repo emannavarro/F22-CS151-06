@@ -1,4 +1,4 @@
-package hw1;
+//package hw1;
 
 public class Student {
 	private String name;
@@ -37,4 +37,7 @@ public class Student {
 	public void setStudentId(int studentId) {
 		this.studentId = studentId;
 	}
+
+
+
 }
